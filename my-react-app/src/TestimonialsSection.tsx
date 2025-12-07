@@ -141,7 +141,7 @@ const testimonials = [
   // --- RISHABH'S TESTIMONIAL (UNCHANGED) ---
   {
     name: "Rishabh",
-    position: "Manager, GFS, COE, Madurai",
+    position: "",
     company: "FORMER CYBERSECURITY ANALYST, WIPRO",
     quote:
       "My sessions with Dr. Swaminathan Sabesan have been nothing short of motivating and transformative. His ability to listen and pay attention to details, helped identify the challenges I faced, and empowered me to think differently through powerful conversations for navigating these challenges. His sessions are quite relaxing in a manner that you feel like talking to a close friend. Overall, he is empathetic and genuinely understands people, thereby helping them with problem management and opportunity development. I strongly recommend Dr. Sabesan for any type of Counselling and developmental engagement related to one's career and personal growth",
